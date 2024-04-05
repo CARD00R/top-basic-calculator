@@ -1,0 +1,1 @@
+This repo serves as the TheOdinProject's Foundation Final Project where I will combine everything I’ve learned so far: I'm going to create an on-screen calculator using JavaScript, HTML, and CSS.
