@@ -1,3 +1,6 @@
+// Styles
+    // Body
+        let BodyBgColor = "#FF9C00";
 
 //Input Variables
 num1 = 0;
